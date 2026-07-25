@@ -52,7 +52,7 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
-``
+```
 ## Results
 
 | Model | Accuracy |

@@ -52,17 +52,7 @@ Install dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
-```
-
-## Usage
-
-```bash
-jupyter notebook Banking_Churn_Prediction.ipynb
-```
-
-Run all cells top to bottom. `BankChurners.csv` must be present in the same
-directory.
-
+``
 ## Results
 
 | Model | Accuracy |
@@ -73,15 +63,3 @@ directory.
 | SVC | 0.850 |
 | Logistic Regression | 0.814 |
 
-## Project Structure
-
-```
-.
-├── Banking_Churn_Prediction.ipynb   # Main analysis and modeling notebook
-├── BankChurners.csv                 # Dataset (not included — add your own)
-└── README.md
-```
-
-## License
-
-Add a license of your choice (e.g. MIT) if you plan to share this publicly.
